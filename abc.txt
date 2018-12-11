@@ -1,0 +1,17 @@
+https://api.chinac.com/?Action=RunInstance
+&Region=cn-wuxi1
+&ImageId=t-ej8hh1dex32l
+&InstanceType=11ºË1G_SERIES_STANDARD
+&FirewallId=f-g18hh7tffy34g
+&Interface.0.NetworkId=noy8hh7i9na39w
+&Volumes.0.Type=normal
+&Volumes.0.Size=20
+&Volumes.1.Type=normal
+&Volumes.1.Size=20
+&InstanceType=1%E6%A0%B81G_SERIES_STANDARD
+&Period=1&PayType=PREPAID
+&AccessKeyId=6792aa42d288422ab8dd4654dfe727c4
+&Date=2017-09-13T15%3A40%3A19%20%2B0800
+&Name=%E6%B5%8B%E8%AF%95%E6%8C%89%E9%87%8Fapi
+&Version=1.0
+&Signature=qx5mPbG0UvLSN4wKdnfmqcB63tmKi8qQUvq52ixAAAQ%3D
